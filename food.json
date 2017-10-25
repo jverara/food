@@ -10,9 +10,9 @@
     	"gazpachuelo": "gazpachuelo",
     	"puchero": "puchero"
     },
-    "aliños":{
-    	"deEnsalada": "deEnsalada",
-    	"dePapas": "dePapas"
+    "pasta":{
+    	"macarrones": "macarrones",
+    	"spaguettis": "spaguettis"
     }
 
 }
