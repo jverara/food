@@ -9,5 +9,10 @@
     "sopas":{
     	"gazpachuelo": "gazpachuelo",
     	"puchero": "puchero"
+    },
+    "aliños":{
+    	"deEnsalada": "deEnsalada",
+    	"dePapas": "dePapas"
     }
+
 }
