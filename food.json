@@ -9,5 +9,10 @@
     "sopas":{
     	"gazpachuelo": "gazpachuelo",
     	"puchero": "puchero"
+    },
+    "cerveza":{
+    	"alhambra": "alhambra",
+    	"heineken": "heineken"
     }
+
 }
