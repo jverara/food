@@ -2,4 +2,7 @@
     "vegetales":{
         "tomate": "tomate"
     }
+    "carne":{
+    	"chuletaso": "chuletaso"
+	}
 }
