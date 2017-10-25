@@ -9,5 +9,10 @@
     "sopas":{
     	"gazpachuelo": "gazpachuelo",
     	"puchero": "puchero"
+    },
+    "vinos":{
+    	"tinto": "tinto",
+    	"dulce": "dulce"
     }
+
 }
